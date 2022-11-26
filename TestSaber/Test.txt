@@ -1,0 +1,17 @@
+class ListRand
+5
+class ListNode
+0
+тестовые данные 1
+class ListNode
+2
+тестовые данные 2
+class ListNode
+0
+тестовые данные 3
+class ListNode
+4
+тестовые данные 4
+class ListNode
+1
+тестовые данные 5
